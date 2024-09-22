@@ -7,6 +7,11 @@ Polish, English
 
 preview: https://streamable.com/9f1d10
 
+dependencies
+    'ox_lib'
+    'ox_inventory'
+    'ox_target'
+
 This is my first script in my life.
 
 Discord: https://discord.gg/CzX3Nhjy
