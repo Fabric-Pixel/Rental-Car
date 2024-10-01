@@ -1,5 +1,5 @@
 local cars = {
-    {model = 'ase', price = 500, label = "asea"},
+    {model = 'asea', price = 500, label = "asea"},
     {model = 'Baller', price = 900, label = "Baller "},
     {model = 'stanier', price = 300, label = "Stanier"},
     {model = 'primo', price = 200, label = "primo"},
